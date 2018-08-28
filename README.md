@@ -1,6 +1,6 @@
 # Coding is Communication
 
-> “Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live” - _John Woods_
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” -- Martin Fowler, _"Refactoring: Improving the Design of Existing Code"_
 
 Software developers, especially in small to medium sized companies, are responsible for more than just typing code.  You will sit in a key position between customers, marketers, designers, managers, deployment machines, and your fellow developers.  At the end of the day it is your responsibility to ensure that there is a working application which fits the end user's needs, deploys smoothly on the necessary platforms, and is scalable and maintainable. 
 
@@ -60,6 +60,7 @@ The Programmer's Oath:
 More:
 * [Communicating with Code](http://elewa.education/2018/01/25/carving-thoughts-code/)
 * [Is Coding Literacy?](http://d-scholarship.pitt.edu/21695/1/24-33-1-PB.pdf)
+* [Writing code for humans](https://medium.com/@ilyothehorrid/writing-code-for-humans-5b80a89f439c)
 * [The rhetorical space](https://github.com/elewa-academy/collaborative-development)
 * Code Quality: [one](https://xkcd.com/1513/), [two](https://xkcd.com/1695/), [three](https://m.xkcd.com/1833/), [counterpoint](http://xkcdisntfunny.blogspot.be/2015/04/xkcd-isnt-funny-1513-code-quality.html)
 * [13 Principles of Readable Code](https://gist.github.com/peterhurford/3ad9f48071bd2665a8af)
